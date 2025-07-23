@@ -1,0 +1,20 @@
+
+.start{
+    
+        display: flex ;
+        margin-top: 25px;
+        margin: 20px;
+        width: 180px;
+        height: 60px !important;
+        color: white !important;
+        font-size: 18px;
+        text-transform: capitalize;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+       background-color: rgba(25, 8, 173, 0.759);
+       &:hover{
+        color: black !important;
+    }
+        
+}
